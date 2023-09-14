@@ -1,0 +1,3 @@
+Arquivo criado especialmente para a tarefa do onboarding de desenvolvimento para o tópico de Git
+
+Autor: Rondinelle Cunha
